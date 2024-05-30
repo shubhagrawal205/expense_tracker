@@ -1,4 +1,6 @@
-const router = require('express').Router()
+const {addIncome}=require('../controllers/income');
+
+const router = require('express').Router();
 
 
 
